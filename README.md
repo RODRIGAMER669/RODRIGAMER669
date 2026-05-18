@@ -25,7 +25,6 @@ Hola!! Soy Alexis Rodríguez!
 💻 Soy un junior con ganas de aprender
 📚 Tengo un bachillerato de ciencias y tecnología y un ciclo formativo grado superior en DAM
 📝 Me interesa mucho la informática
-🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Lenguajes principales: Java, Kotlin
 🚩 Interesado en Full stack
 🤔 Me gusta compartir mis conocimientos.
