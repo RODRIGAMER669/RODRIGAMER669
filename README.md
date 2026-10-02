@@ -43,7 +43,7 @@ Hola!! Soy Alexis Rodríguez!
 
 ### 👨‍💻 Lenguajes de programación
 
-<p>
+<p align="center">
     <a href="https://github.com/RODRIGAMER669"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
     <a href="https://github.com/RODRIGAMER669"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"></a>
     <a href="https://github.com/RODRIGAMER669"><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -51,7 +51,7 @@ Hola!! Soy Alexis Rodríguez!
 
 ### 🗄️ Databases and frameworks
 
-<p>
+<p align="center">
     <a href="https://github.com/RODRIGAMER669"><img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff"></a>
     <a href="https://github.com/RODRIGAMER669"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="https://github.com/RODRIGAMER669"><img alt="Mongo" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -59,7 +59,7 @@ Hola!! Soy Alexis Rodríguez!
 
 ### 💻 Software and Tools
 
-<p>
+<p align="center">
     <a href="https://github.com/RODRIGAMER669"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="https://github.com/RODRIGAMER669"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
