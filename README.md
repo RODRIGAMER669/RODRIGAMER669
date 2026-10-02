@@ -23,12 +23,12 @@ Hola!! Soy Alexis Rodríguez!
 
 <pre>
 💻 Soy un junior con ganas de aprender
-📚 Tengo un bachillerato de ciencias y tecnología y un ciclo formativo grado superior en DAM
+📚 Tengo un bachillerato de ciencias y tecnología y un ciclo formativo grado superior en DAM (cursando DAW)
 📝 Me interesa mucho la informática
 🌟 Lenguajes principales: Java, Kotlin
 🚩 Interesado en Full stack
 🤔 Me gusta compartir mis conocimientos.
-🎮 Hobby: jugar videojuegos y crear gameplays en Youtube
+🎮 Hobby: jugar videojuegos, investigar tecnologías nuevas y socializar
 </pre>
 <hr>
 
@@ -37,7 +37,6 @@ Hola!! Soy Alexis Rodríguez!
 	<a href="mailto:rodrigamer669yt@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/alexis-rodriguez-ragel/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
 	<a href="https://github.com/RODRIGAMER669"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.youtube.com/@RODRIGAMER669"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
   <a href="https://discord.gg/zm7je23s5N"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
 </a>
 </p>
@@ -118,4 +117,4 @@ Poco a poco se actualizará la cuenta con los conocimientos que se vaya adquirie
 
 [RODRIGAMER669](https://github.com/RODRIGAMER669)
 
-Last Edited on: 18/05/2026
+Last Edited on: 02/10/2026
